@@ -2,10 +2,6 @@
 Full-stack web application for disaster management — provides real-time alerts, donation campaigns, volunteer coordination, and shelter tracking with Google Maps integration.
 
 
-# 🌍 Disaster Response and Relief App
-### IT6203 – Group Project | Milestone 3 Report  
-**Group 5 – Kennesaw State University**
-
 
 ---
 
